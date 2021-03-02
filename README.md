@@ -1,4 +1,4 @@
-# Gestures_SwiftUI
+# Gestures with SwiftUI
 
 This projetos performs gestures on SwiftUI.
 
